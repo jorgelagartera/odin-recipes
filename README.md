@@ -1,4 +1,4 @@
 # odin-recipes
 
-This is a project for me to demonstrate my basic HTML skills.
+This is a project to demonstrate my basic HTML skills.
 
